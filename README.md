@@ -1,9 +1,7 @@
 # Face Mask Detection
 <img src="https://github.com/Bayunova28/Face_Mask_Detection/blob/main/Images/mask-detection-sample.jpg" height="500" width="1000">
 
-Face Mask Detection Platform uses Artificial Network to recognize if a user is not wearing a mask.  The app can be connected to any existing or new IP mask detection cameras 
-to detect people without a mask. App users can also add faces and phone numbers to send them an alert in case they are not wearing a mask. If the camera captures an unrecognized 
-face, a notification can be sent out to the administrator.
+Face mask detection involves detecting the location of the face and then determining whether it has a mask on it or not. The issue is proximate cognate to general object detection to detect the classes of objects. Face identification categorically deals with distinguishing a specific group of entities Face. It has numerous applications, such as autonomous driving, education, surveillance etc. In this project we are using a simplified approach to serve the above purpose using the basic Machine Learning (ML) packages such as TensorFlow, Keras, OpenCV
 
 ## Additional Files
 * [Haarcascade Frontal Face Default](https://github.com/Bayunova28/Face_Mask_Detection/blob/main/haarcascade_frontalface_default.xml)
