@@ -8,11 +8,12 @@ Face mask detection involves detecting the location of the face and then determi
 * [Training Model](https://github.com/Bayunova28/Face_Mask_Detection/blob/main/TrainingModel.h5)
 
 ## Install Package
-Make sure you have opencv, numpy, warnings and tensorflow  installed. If not install them using pip
+Make sure you have opencv, numpy, warnings, keras and tensorflow  installed. If not install them using pip
 ```
 pip install --upgrade warnings
 pip install numpy
 pip install tensorflow
+pip install keras
 pip install opencv-python
 ```
 
